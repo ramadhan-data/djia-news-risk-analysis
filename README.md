@@ -46,7 +46,7 @@ Full findings, recommendations, and limitations are documented in [`business_rep
 ```
 djia-news-risk-analysis/
 ├── data/                   # Raw and processed datasets
-├── notebooks/              # Python EDA & analysis notebook
+├── notebook/               # Python EDA & analysis notebook
 ├── sql/                    # SQL queries (djia_news_queries.sql)
 ├── powerbi/                # Power BI dashboard file (.pbix)
 ├── images/                 # Chart exports & dashboard screenshots
