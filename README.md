@@ -70,5 +70,5 @@ All relationships identified in this analysis are **correlational, not causal** 
 
 ## 👤 Author
 
-**Neuro** — Freelance Data Analyst (SQL · Python · Power BI · Excel)
-[Upwork Profile](#) · [GitHub](https://github.com/ramadhan-data)
+**ramadhan-data** — Freelance Data Analyst (SQL · Python · Power BI · Excel)
+[[Upwork Profile](https://www.upwork.com/freelancers/~0187a65ac23eb99490)](#) · [GitHub](https://github.com/ramadhan-data)
